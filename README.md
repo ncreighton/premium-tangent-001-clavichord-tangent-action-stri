@@ -1,0 +1,2 @@
+# premium-tangent-001-clavichord-tangent-action-stri
+Tired of forgetting which tangent you adjusted last week—or losing your strike point notes on scraps of paper? Your clavichord's voice depends on micrometer-precise action regulation, yet most logs are chaos.  This Notion template gives you a dedicated, searchable log to record every strike point adjustment for each tangent. No more guesswork or lo
